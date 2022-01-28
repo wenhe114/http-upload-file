@@ -1,0 +1,17 @@
+{
+  "name": "http-upload-file",
+  "version": "0.0.3",
+  "description": "封装基于xmlhttprequest上传文件",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "keywords": [
+    "xmlhttprequest",
+    "upload"
+  ],
+  "author": "wenhe",
+  "license": "ISC"
+}
